@@ -15,11 +15,5 @@ Contents:
    *
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+More details will be added soon.
 
